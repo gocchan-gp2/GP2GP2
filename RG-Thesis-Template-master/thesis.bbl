@@ -1,0 +1,21 @@
+\begin{thebibliography}{1}
+
+\bibitem{Bitcoin}
+Satoshi Nakamoto.
+\newblock Bitcoin: A peer-to-peer electronic cash system.
+\newblock
+  \url{http://www.cryptovest.co.uk/resources/Bitcoin%20paper%20Original.pdf},
+  2008.
+
+\bibitem{Sample}
+Gocchan Goal.
+\newblock Sample: A samplesamplesample.
+\newblock
+  \url{http://www.cryptovest.co.uk/resources/Bitcoin%20paper%20Original.pdf},
+  2010.
+
+\bibitem{感染症}
+小高 知宏.
+\newblock Pythonによる数値計算とシミュレーション, 2018.
+
+\end{thebibliography}
